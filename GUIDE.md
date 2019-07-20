@@ -167,9 +167,11 @@ At some point it starts to make sense to do things as a team. Open data as a mod
 
 This guide started with the desire to understand how open data publishers and portals could provide marketplaces for their users, customers, partners and the wider community.
 
-At the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/), we thought about what would happened if we married crowdfunding and open data. We came across several interesting projects which do exactly this:
+At the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/), we thought about what would happened if we married crowdfunding and open data. Imagine [Giveth](https://github.com/Giveth/giveth-dapp)+[JKAN](https://jkan.io/), or [Indiegogo](https://www.indiegogo.com/)+[core datasets](https://github.com/datasets). It might just work :bowtie:
 
-Based on this we sketched four areas of design which could be pertinent to improving the way open data hubs accelerate the economic potential of working with open data, and reap quality and scaling benefits.
+We looked closely into interesting reference projects, like [GitHub Sponsors](https://github.com/sponsors), [Swarm City](https://beta.giveth.io/campaigns/5ce2a6752bb8c0257c7b839e), [Swiss Crowdfunder](https://github.com/200ok-ungleich/swiss-crowdfunder), [GO FAIR](https://www.go-fair.org/go-fair-initiative/), [Algorithmia](https://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/), [Kiva](https://www.kiva.org/), [Iota](https://data.iota.org/#/), [Datapace](https://datapace.io/) and [Wibson](https://medium.com/wibson).
+
+Based on this research we sketched four areas of design which could be pertinent to improving the way open data hubs accelerate the economic potential of working with open data, and reap quality and scaling benefits.
 
 ![](img/sketch_20190720_004840.jpg)
 
