@@ -1,0 +1,7 @@
+type,name,url,api,alexa_rank,data_offers
+Gigs,Upwork,https://upwork.com,https://developers.upwork.com/,360,50
+Gigs,Freelancer,https://www.freelancer.com/,https://developers.freelancer.com/,995,200
+Gigs,PeoplePerHour,https://www.peopleperhour.com,https://github.com/PeoplePerHour/pph-php-client,6435,790
+Gigs,Guru.com,http://www.guru.com/,,9268,105955
+Gigs,Fiverr,https://www.fiverr.com/,,256,30846
+Funding,Patreon,https://patreon.com/,https://docs.patreon.com/,281,-1
