@@ -1,13 +1,15 @@
 #earnopendata
 ---
 
-This repository describes and provides resources on earning income with open data.
+This repository describes strategies and links to resources on earning an income with open data.
 
 Seeded at the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/) in July 2019, our original idea was to create a resource to strengthen the basis for professional engagement within the open data community.
 
 Visit our jobs board at: **https://earnopendata.herokuapps.com**
 
 # Guide
+
+![](img/sketch_20190720_004840.jpg)
 
 A short overview exists here on the different modes of work, and how value is created in the open data community, with tips on:
 
@@ -20,6 +22,8 @@ A short overview exists here on the different modes of work, and how value is cr
 Read more in: **[How to earn pocket money gracefully with open data?](GUIDE.md)**
 
 # Can I support you?
+
+[![Patreon badge](https://bulma.io/images/become-a-patron.png)](https://www.patreon.com/sodacamper)
 
 Yes, you can [support this initiative](https://www.patreon.com/sodacamper) on Patreon.
 
