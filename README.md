@@ -5,7 +5,7 @@ This repository describes strategies and links to resources on earning an income
 
 Seeded at the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/) in July 2019, our original idea was to create a resource to strengthen the basis for professional engagement within the open data community.
 
-Visit our jobs board at: **https://earnopendata.herokuapps.com**
+See our experimental jobs board at: **[jobboard](/loleg/jobboard)**
 
 # Guide
 
@@ -36,6 +36,11 @@ This is a [Data Package](https://frictionlessdata.io/data-packages/) tracking so
 To view the data, click the link above. To contribute, edit the files in the `data` folder.
 
 For more information on how Data Packages work, visit [frictionlessdata.io](https://frictionlessdata.io/guides/data-package/) and [datahub.io](https://datahub.io/docs/data-packages/publish-faq).
+
+# Team
+
+- Oleg ([@sodacamper](https://twitter.com/sodacamper))
+- Michael ([@mibi61](https://twitter.com/mibi61))
 
 # License
 
