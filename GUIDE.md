@@ -169,7 +169,18 @@ This guide started with the desire to understand how open data publishers and po
 
 At the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/), we thought about what would happened if we married crowdfunding and open data. Imagine [Giveth](https://github.com/Giveth/giveth-dapp)+[JKAN](https://jkan.io/), or [Indiegogo](https://www.indiegogo.com/)+[core datasets](https://github.com/datasets). It might just work :bowtie:
 
-We looked closely into interesting reference projects, like [GitHub Sponsors](https://github.com/sponsors), [Swarm City](https://beta.giveth.io/campaigns/5ce2a6752bb8c0257c7b839e), [Swiss Crowdfunder](https://github.com/200ok-ungleich/swiss-crowdfunder), [GO FAIR](https://www.go-fair.org/go-fair-initiative/), [Algorithmia](https://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/), [Kiva](https://www.kiva.org/), [Iota](https://data.iota.org/#/), [Datapace](https://datapace.io/) and [Wibson](https://medium.com/wibson).
+Interesting reference projects that we looked into at the hackathon:
+
+- [Swiss Crowdfunder](https://github.com/200ok-ungleich/swiss-crowdfunder), an open source crowdfunding platform from eastern Switzerland
+- [GitHub Sponsors](https://github.com/sponsors), an initiative that has been making quite a lot of buzz in the community
+- [TheDataDB](https://www.patreon.com/thedatadb/overview), has been crowd-sponsoring open data republication for 10 years
+- [Swarm City](https://beta.giveth.io/campaigns/5ce2a6752bb8c0257c7b839e), yet another distributed autonomous organization?
+- [GO FAIR](https://www.go-fair.org/go-fair-initiative/), advocating better principles for data exchange
+- [Algorithmia](https://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/), has been making the case for quality open data for years
+- [Kiva](https://www.kiva.org/), still works well despite all the people who say it couldn't possibly work
+- [Iota](https://data.iota.org/#/), some random IoT data market
+- [Datapace](https://datapace.io/), some random IoT data market
+- [Wibson](https://medium.com/wibson), no idea, but it sounds cool
 
 Based on this research we sketched four areas of design which could be pertinent to improving the way open data hubs accelerate the economic potential of working with open data, and reap quality and scaling benefits.
 
