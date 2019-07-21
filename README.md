@@ -5,7 +5,7 @@ This repository describes strategies and links to resources on earning an income
 
 Seeded at the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/) in July 2019, our original idea was to create a resource to strengthen the basis for professional engagement within the open data community.
 
-See our experimental jobs board at: **[jobboard](/loleg/jobboard)**
+See our experimental jobs board at: **[jobboard](https://github.com/loleg/jobboard)**
 
 # Guide
 
