@@ -44,4 +44,4 @@ For more information on how Data Packages work, visit [frictionlessdata.io](http
 
 # License
 
-This repository is made available by its maintainers under the [Public Domain Dedication and License v1.0](http://www.opendatacommons.org/licenses/pddl/1.0/), a copy of the full text of which is in [LICENSE.md](LICENSE.md). Forks, contributions and [feedback](issues/) are welcomed.
+This repository is made available by its maintainers under the [Public Domain Dedication and License v1.0](http://www.opendatacommons.org/licenses/pddl/1.0/), a copy of the full text of which is in [LICENSE.md](LICENSE.md). Forks, contributions and [feedback](https://github.com/loleg/earnopendata/issues) are welcomed.

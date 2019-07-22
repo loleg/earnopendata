@@ -1,20 +1,19 @@
-# **earn**
-
-_transitive verb_
-- To gain especially for the performance of service, labor, or work.
-- To acquire or deserve as a result of effort or action.
-- To yield as return or profit.
-
-from [The American Heritage® Dictionary of the English Language](https://www.wordnik.com/words/earn), 5th Edition.
-
 How to earn pocket money gracefully with open data?
 ---
 
-_Edit this page or raise an [issue](issues/) to add your own thoughts! Or let's have a discussion at [#earnopendata](https://twitter.com/hashtag/earnopendata)_
+```
+define: earn
 
-People who enjoy working with open data are just people: from all kinds of backgrounds and walks of life. We meet online, in cafés, at hackathons, and increasingly in the workplace. We work on our open data projects, share tips and source code, contribute our time willingly to testing or improving datasets and tooling.
+transitive verb
+- To gain especially for the performance of service, labor, or work.
+- To acquire or deserve as a result of effort or action.
+- To yield as return or profit.
+```
+<small>-- [The American Heritage® Dictionary of the English Language](https://www.wordnik.com/words/earn), 5th Edition.</small>
 
-Earning money with open data is not a contradiction: it is essential to sustaining the growth of the ecosystem, creating virtuous feedback cycles to improve the breadth of opportunities, and the quality of open data on the whole.
+People who work with open data are just people: from all kinds of backgrounds and walks of life. We meet online, in cafés, at hackathons, and increasingly in the workplace. We work on our projects, share tips and source code, contribute our time willingly to testing or improving datasets and tooling.
+
+Earning money with open data is _not_ a contradiction: it is essential to sustaining the growth of the ecosystem, creating virtuous feedback cycles to improve the breadth of opportunities, and the quality of publicly available data on the whole.
 
 There are also potential overheads to choosing to work with open data, especially if you try to work exclusively with open data sources. Fortunately, as open data gets recognized around the world as a way to higher quality information services, opportunities to hack open data and make money while at it, abound.
 
@@ -31,6 +30,8 @@ This guide, which is in the Public Domain, covers the following sections:
 - [Marketplaces](#marketplaces)
 
 Icons by Nithinan Tatah, published at [the Noun Project](https://thenounproject.com/noomtah/collection/geological-exploration/) under a [CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/us/legalcode).
+
+### _Edit this page or [raise an issue](https://github.com/loleg/earnopendata/issues) to add your own thoughts! Or let's have a discussion at [#earnopendata](https://twitter.com/hashtag/earnopendata)_
 
 # Key skills
 
@@ -203,7 +204,7 @@ Our focus in further discussion should be on **Funding**, which is at this point
 - Involving more people in use case development, for example by sponsoring hackathons.
 - Reducing the friction of using open data, such as by enabling easy access to premium services through data portals.
 
-Edit this page or raise an [issue](issues/) to add your own thoughts! Or let's have a discussion at [#earnopendata](https://twitter.com/hashtag/earnopendata)
+Edit this page or raise an [issue](https://github.com/loleg/earnopendata/issues) to add your own thoughts! Or let's have a discussion at [#earnopendata](https://twitter.com/hashtag/earnopendata)
 
 #### Further reading
 
