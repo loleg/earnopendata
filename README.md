@@ -25,9 +25,11 @@ Read more in: **[How to earn pocket money gracefully with open data?](GUIDE.md)*
 
 [![Patreon badge](https://bulma.io/images/become-a-patron.png)](https://www.patreon.com/sodacamper)
 
-Yes, you can [support this initiative](https://www.patreon.com/sodacamper) on Patreon.
+You can support this initiative on [Patreon](https://www.patreon.com/sodacamper), [OpenCollective](https://opencollective.com/dat-alets-ch) or by making a donation to [Opendata.ch](https://opendata.ch/organisation/spenden/).
 
 Contributions of advice, pull requests and :star: GitHub stars are cool too :)
+
+Speaking of GitHub, check out their new [Guide to setting up the Sponsor button](https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository)
 
 # Data
 
