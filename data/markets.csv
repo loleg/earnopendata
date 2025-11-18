@@ -1,7 +1,1 @@
-type,name,url,api,alexa_rank,data_offers
-Gigs,Upwork,https://upwork.com,https://developers.upwork.com/,360,50
-Gigs,Freelancer,https://www.freelancer.com/,https://developers.freelancer.com/,995,200
-Gigs,PeoplePerHour,https://www.peopleperhour.com,https://github.com/PeoplePerHour/pph-php-client,6435,790
-Gigs,Guru.com,http://www.guru.com/,,9268,105955
-Gigs,Fiverr,https://www.fiverr.com/,,256,30846
-Funding,Patreon,https://patreon.com/,https://docs.patreon.com/,281,-1
+type,name,url,api,alexa_rank,data_offers&#10;Gigs,Upwork,https://upwork.com,https://developers.upwork.com/,360,50&#10;Gigs,Freelancer,https://www.freelancer.com/,https://developers.freelancer.com/,995,200&#10;Gigs,PeoplePerHour,https://www.peopleperhour.com,https://github.com/PeoplePerHour/pph-php-client,6435,790&#10;Gigs,Guru.com,http://www.guru.com/,,9268,105955&#10;Gigs,Fiverr,https://www.fiverr.com/,,256,30846&#10;Funding,Patreon,https://patreon.com/,https://docs.patreon.com/,281,-1&#10;Funding,"GitHub Sponsors",https://github.com/sponsors,https://docs.github.com/en/sponsors,,&#10;Funding,"Open Collective",https://opencollective.com/,https://docs.opencollective.com/,,&#10;Fiscal,NumFOCUS,https://numfocus.org/,https://numfocus.org/sponsors/,,&#10;Fiscal,"Open Source Collective",https://opencollective.com/opensource,,,

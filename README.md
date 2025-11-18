@@ -1,4 +1,4 @@
-#earnopendata
+# Earn Open Data\n\nView the static website: [index.html](index.html)\n\nThis repository...
 ---
 
 This repository describes strategies and links to resources on earning an income with open data.
