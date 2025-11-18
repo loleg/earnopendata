@@ -1,15 +1,16 @@
-# Earn Open Data\n\nView the static website: [index.html](index.html)\n\nThis repository...
+# Earn Open Data
+
 ---
 
 This repository describes strategies and links to resources on earning an income with open data.
 
 Seeded at the [DB Open-Data-Hackathon Summercamp](https://dbmindbox.com/en/db-opendata-hackathons/hackathons/db-open-data-hackathon-community-summercamp-juli-2019/) in July 2019, our original idea was to create a resource to strengthen the basis for professional engagement within the open data community.
 
-See our experimental jobs board at: **[jobboard](https://github.com/loleg/jobboard)**
+Participants of DINAcon 2025 were interested in this project, so we revived it with a new branch, a few additional links, and a static website made with [opencode](https://opencode.ai) (Sherlock Think Alpha).
+
+See also experimental jobs board at: **[jobboard](https://github.com/loleg/jobboard)**
 
 # Guide
-
-![](img/sketch_20190720_004840.jpg)
 
 A short overview exists here on the different modes of work, and how value is created in the open data community, with tips on:
 
